@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('✨𝙎𝙐𝙋𝙋𝙊𝙍𝙏', 'https://t.me/JaiHindChatting'),
-        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://github.com/rakeshyt/DevilTagAllBot')
+        Button.url('💝ADD🎉GROUP💝', 'https://t.me/MembersTagBOT?startgroup=true')
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('✨𝙎𝙐𝙋𝙋𝙊𝙍𝙏', 'https://t.me/JaiHindChatting'),
-        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://github.com/rakeshyt/DevilTagAllBot')
+        Button.url('💝ADD⭐GROUP💝', 'https://t.me/MembersTagBOT?startgroup=true')
       ]
     )
   )
